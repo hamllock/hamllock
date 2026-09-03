@@ -1,5 +1,10 @@
 <table align="center" width="100%">
   <tr>
+    <td colspan="2" align="center">
+      <img src="https://i.postimg.cc/wjVPZkS0/ji-yi-guan-li-ju-false-memory.gif" alt="Bai Zhong" width="100%" />
+    </td>
+  </tr>
+  <tr>
     <td width="40%" align="center" valign="middle">
       <img 
         src="https://i.postimg.cc/52sFZ0z2/catcoding.jpg" 
